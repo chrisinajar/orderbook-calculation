@@ -1,0 +1,25 @@
+{
+  "name": "orderbook-calculation",
+  "version": "0.0.0",
+  "description": "Mathematical operations for orderbooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "semistandard | snazzy && tape ./test.js | tap-spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisinajar/orderbook-calculation.git"
+  },
+  "author": "Chris Vickery <chrisinajar@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisinajar/orderbook-calculation/issues"
+  },
+  "homepage": "https://github.com/chrisinajar/orderbook-calculation#readme",
+  "devDependencies": {
+    "semistandard": "^7.0.5",
+    "snazzy": "^3.0.0",
+    "tap-spec": "^4.1.1",
+    "tape": "^4.5.1"
+  }
+}
