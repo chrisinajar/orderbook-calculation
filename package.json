@@ -1,6 +1,6 @@
 {
   "name": "orderbook-calculation",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Mathematical operations for orderbooks",
   "main": "index.js",
   "scripts": {
